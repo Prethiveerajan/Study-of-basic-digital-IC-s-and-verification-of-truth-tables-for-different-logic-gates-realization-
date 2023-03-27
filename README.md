@@ -80,7 +80,7 @@ endmodule
 
 ## Logic symbol & Truthtable:
 
-![output](g1.png)
+![output](l1.png)
 ## RTL realization:
 ![ouput](o2.png)
 ## Timing Diagram:
